@@ -5,7 +5,7 @@ Sou formado em Engenharia Química, apaixonado por Ciência de Dados e Machine L
 Como Cientista de Dados, realizo projetos próximos aos problemas reais enfrentados pelas empresas. Meu objetivo é trabalhar como Cientista de Dados e ajudar
 na solução de questões de negócio por meio dos dados.
 
-- 🌱 Atualmente estou estudando Web scraping e Modelos de Classificação
+- 🌱 Atualmente estou estudando Web scraping e Modelos de Clusterizaç
 - 💞️ Me pergunte sobre Ciência de Dados, Análise de Dados e Machine Learning
 - 😄 No meu tempo livre gosto de jardinagem e leitura
 
