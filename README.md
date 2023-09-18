@@ -5,7 +5,7 @@ Sou formado em Engenharia Química, cursando pós-graduação em Ciência de Dad
 Como Cientista de Dados, realizo projetos próximos aos problemas reais enfrentados pelas empresas. Meu objetivo é trabalhar como Cientista de Dados e ajudar
 na solução de questões de negócio por meio dos dados.
 
-- 🌱 Atualmente estou estudando Estatística e Teste A/B
+- 🌱 Atualmente estou estudando Estatística e Elasticidade de Preço
 - 💞️ Me pergunte sobre Ciência de Dados, Análise de Dados e Machine Learning
 - 😄 No meu tempo livre gosto de jardinagem e leitura
 - 📘 Atuamente lendo: Data Science para Negócios
