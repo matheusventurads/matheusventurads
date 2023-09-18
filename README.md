@@ -1,6 +1,6 @@
 # Oi! Me chamo Matheus 👋
 
-Sou formado em Engenharia Química, apaixonado por Ciência de Dados e Machine Learning.
+Sou formado em Engenharia Química, cursando pós-graduação em Ciência de Dados e Big Data Analytics, apaixonado por Ciência de Dados e Machine Learning.
 
 Como Cientista de Dados, realizo projetos próximos aos problemas reais enfrentados pelas empresas. Meu objetivo é trabalhar como Cientista de Dados e ajudar
 na solução de questões de negócio por meio dos dados.
